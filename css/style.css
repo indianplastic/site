@@ -1,0 +1,117 @@
+body {
+
+font-family: 'Merienda', cursive;
+text-align: center;
+color: #222831;
+
+}
+
+
+/* Navigatin Section */
+
+.navbar {
+
+padding: 1% 15%;
+background-color: #222831;
+}
+
+.navbar-dark .navbar-brand {
+
+color : #a3f7bf;
+font-family: 'Kaushan Script', cursive;
+font-size: 3.5rem;
+
+}
+
+.navbar-dark .navbar-nav .nav-item {
+
+color: #a3f7bf;
+padding: 20px;
+
+}
+
+
+/*Content Section*/
+
+#content {
+
+background-color: #a3f7bf;
+padding: 7% 15%
+
+}
+
+.content-image {
+
+height: 250px;
+width: 250px;
+border-radius: 100%;
+padding: 1%;
+margin: 20px;
+
+}
+
+.content-heading, .heading-second {
+
+  font-size: 4rem;
+  font-family: 'Courgette', cursive;
+  line-height: 1.5;
+}
+
+
+/*About us content*/
+
+#about-us {
+
+background-color: #222831;
+padding: 7% 15%;
+color: #a3f7bf;
+
+}
+
+.icon {
+
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-box {
+
+padding: 5%;
+line-height: 1.5;
+
+}
+
+.para {
+
+padding: 1%;
+font-size: 2rem;
+
+}
+
+
+/*Footer section*/
+
+#footer {
+
+  background-color: #a3f7bf;
+  padding: 7% 15% 3%;
+}
+
+.footer-header {
+
+padding-bottom: 5%;
+font-size: 3.5rem;
+
+}
+
+.footer-para {
+
+font-size: 2.5rem;
+
+}
+
+.footer-end{
+
+padding-top: 5%;
+
+}
