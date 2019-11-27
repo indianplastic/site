@@ -127,13 +127,13 @@ padding-top: 5%;
   font-size: 50px;
 }
 
-.nav-link, h3, .content-heading, .heading-second {
+ h3, .content-heading, .heading-second {
 
 font-size: 5rem;
 
 }
 
-body, {
+body, p, .nav-link {
 font-size: 3rem;
 
 }
