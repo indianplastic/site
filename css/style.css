@@ -115,3 +115,32 @@ font-size: 2.5rem;
 padding-top: 5%;
 
 }
+
+@media (max-width: 1000px) {
+
+  .navbar-dark .navbar-brand {
+    font-size: 6rem;
+
+  }
+  .navbar-toggler {
+
+  font-size: 50px;
+}
+
+.nav-link, h3, .content-heading, .heading-second {
+
+font-size: 5rem;
+
+}
+
+body, .para {
+font-size: 3rem;
+
+}
+
+.footer-end {
+
+font-size: 1rem;
+
+}
+}
